@@ -8,7 +8,7 @@ Prerequisites :
 
 async, colors, express, lodash, "monapi", mongoose, request, winston
 
-To install these : npm install request express lodash async winston --save
+To install these : npm install request express lodash async winston --save (or just download all my repo)
 
 To install "monapi" : nothing to do, it's included into "node_modules" directory.
 
