@@ -28,6 +28,7 @@ What does these commands do ?
 node scraper.js URL KEYWORD : analyze the URL given and search for the KEYWORD. Each link which contains the keyword is stored into "mongodb://localhost/scrappedlinks"
 node scraper.js LOCAtION/FILE.txt : get all the links stored in mongodb and write them in the FILE you've asked. The folder has to exists before you launch the command, but the file will be created.
 
+Sorry, this launch a server, but I don't use it, because.... erh, I didn't find anything that I could understand. So, I've done what I could... sorry.
 
 It's an exercise we had to do for school, so if anyone find this code : I've just started working with Javascript, I know I have a lot to learn, and : 
 
