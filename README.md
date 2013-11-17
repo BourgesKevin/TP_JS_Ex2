@@ -14,7 +14,10 @@ To install "monapi" : nothing to do, it's included into "node_modules" directory
 
 You also have to install mongodb from  : http://www.mongodb.org/
 
-How does it works : you have to open a terminal, and from the webspider directory launch :
+How does it works : 
+
+You must open a terminal and launch mongod
+Then, you have to open a terminal, and from the webspider directory launch :
 
 node scraper.js URL KEYWORD
 or
